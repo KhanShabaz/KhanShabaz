@@ -1,4 +1,3 @@
-<img align="center" alt="Banner" width="1000" height="350" src="https://github.com/khanshabaz/khanshabaz/blob/main/profile_Banner.png"/>
 <h1 align="center">Hi 👋, I'm Khan Shabaz Umarhayat</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/khanshabaz/khanshabaz/blob/main/full-stack-development.gif"/>
