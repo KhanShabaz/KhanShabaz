@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="500" src="https://github.com/khanshabaz/khanshabaz/blob/main/full-stack-development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanshabaz&label=Profile%20views&color=0e75b6&style=flat" alt="khanshabaz" /> </p>
 
-- 🌱 I’m currently learning **NodeJs/ExpressJs/MongoDB**
+- 🌱 I’m currently learning **E-commerce Development**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,ReactJS**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,ReactJS,NodeJs/ExpressJs/MongoDB**
 
 - 📫 How to reach me **shabaz4646khan@gmail.com**
 
