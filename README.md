@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khan Shabaz Umarhayat</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate E-commerce Web Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/khanshabaz/khanshabaz/blob/main/full-stack-development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanshabaz&label=Profile%20views&color=0e75b6&style=flat" alt="khanshabaz" /> </p>
 
-- 🌱 I’m  **E-commerce Web Developer**
+- 🌱 I’m a **Full Stack Developer**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,ReactJS,NodeJs/ExpressJs/MongoDB**
 
